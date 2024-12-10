@@ -26,7 +26,7 @@ The testing activities include:
 ### Tools & Artifacts  
 - **Test Documentation**: Test Plan, Test Cases, and Defect Report.  
 - **Testing Tools**: Excel/Google Sheets for managing test cases and reports.  
-- **Bug Tracking**: Jira, Bugzilla, or other issue tracking tools (if applicable).  
+
 
 ### Results & Insights  
 - Documented successful and failed test cases with detailed observations.  
